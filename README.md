@@ -1,2 +1,2 @@
 # LeetCode
-在LeetCode上完成的题目
+在LeetCode和haizei等其他OJ上完成的题目
